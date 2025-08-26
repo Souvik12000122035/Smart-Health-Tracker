@@ -27,11 +27,4 @@ This project helps track patient health, manage data securely, and provide docto
 - **Realtime**: WebSockets (Flask-SocketIO)  
 - **Visualization**: Chart.js  
 
----
 
-## ⚙️ Setup & Installation  
-
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/your-username/smart-health-tracker.git
-   cd smart-health-tracker
